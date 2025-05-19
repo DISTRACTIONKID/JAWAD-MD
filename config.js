@@ -13,7 +13,7 @@ import dotenv from 'dotenv'
 //INFO BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumber = [''] //Example: +92310344XXXX
+global.botNumber = ['+255759112010'] //Example: +92310344XXXX
 global.confirmCode = "" 
 
 
